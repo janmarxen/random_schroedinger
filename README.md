@@ -1,6 +1,6 @@
-# Random Schrödinger Equation Solver
+# Random Schrödinger Operator Solver
 
-This repository contains Julia scripts to solve exercises related to the random Schrödinger equation using numerical methods.
+This repository contains Julia scripts to solve exercises related to the random Schrödinger operator using numerical methods. 
 
 ## File Structure
 
